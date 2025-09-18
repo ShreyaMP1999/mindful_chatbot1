@@ -77,7 +77,7 @@ const COPING_STRATEGIES = [
     description: "Challenge negative thoughts",
     instructions: "When you notice a negative thought, ask: Is this realistic? What evidence do I have? What would I tell a friend?",
     category: "depression",
-    icon: Brain2,
+    icon: Activity,
     duration: "5 minutes"
   }
 ];
