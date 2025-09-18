@@ -23,7 +23,6 @@ import {
   Calendar,
   Wind,
   Focus,
-  Brain2,
   Activity
 } from 'lucide-react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar } from 'recharts';
